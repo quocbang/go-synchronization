@@ -1,1 +1,1 @@
-# gp-synchronization
+# go-synchronization
